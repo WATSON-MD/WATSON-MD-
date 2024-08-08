@@ -1,7 +1,7 @@
 {
-    "name": "NTEEJ-MD",
+    "name": "WATSON-MD",
     "version": "1.0.0",
-    "description": "Simple Whatsapp Bot made by nteej",
+    "description": "Simple Whatsapp Bot made by Watsonxd",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -10,7 +10,7 @@
         "stop": "pm2 stop Anita_0.1",
         "build": "echo \"Building the project...\""
     },
-    "author": "NTEEJ-MD",
+    "author": "Watsonxd",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^9.1.4",
@@ -73,10 +73,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Ntee-j01/NTEEJ-MD.git"
+        "url": "git+https://github.com/Watson-xd/WATSON-MD-.git"
     },
     "bugs": {
-        "url": "https://github.com/Ntee-j01/NTEEJ-MD/issues"
+        "url": "https://github.com/Watson-xd/WATSON-MD-/issues"
     },
-    "homepage": "https://github.com/Ntee-j01/NTEEJ-MD#readme"
+    "homepage": "https://github.com/Watson-xd/WATSON-MD-#readme"
 }
