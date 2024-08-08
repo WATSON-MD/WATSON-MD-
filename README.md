@@ -87,7 +87,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ---
 ### Credits to:
 `much thanks to`
-- [`NTEEJ`](https://github.com/Cod3Uchiha) for supporting and base of bot
+- [`NTEEJ THE HACKER`](https://github.com/Ntee-j01/NTEEJ-MD) for supporting and base of bot
 - [`DeeCeeXxx`](https://github.com/DeeCeeXxx) code encryption
 
 ---
