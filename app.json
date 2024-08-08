@@ -1,8 +1,8 @@
 {
-  "name": "NTEEJ-MD",
-  "description": "A simple WhatsApp bot with advanced features",
-  "logo": "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg",
-  "keywords": "Nteej md",
+  "name": "WATSON-MD",
+  "description": "A simple WhatsApp bot with super features",
+  "logo": "https://i.postimg.cc/NfTgXrKh/IMG-20240808-WA0006.jpg",
+  "keywords": "watson md",
   "success_url": "/Asta/",
   "app_url": "/qr/",
 
@@ -28,7 +28,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner Name",
-      "value": "Nteej",
+      "value": "watsonxd",
       "required": true
     },
 
@@ -46,12 +46,12 @@
     "BOT_NAME": {
       "description": "Bot Name",
       "required": false,
-      "value": "NTEEJ-MD"
+      "value": "watson-MD"
     },
     "USER_IMAGES": {
       "description": "Image for bot",
       "required": false,
-      "value": "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/tgg4fv86/nteej.jpg"
+      "value": "https://i.postimg.cc/NfTgXrKh/IMG-20240808-WA0006.jpg"
     },
     "TZ": {
       "description": "Don't change if you dont know your location.",
@@ -104,7 +104,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner number or sudo",
-      "value": "263714497545"
+      "value": "263789622747"
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
@@ -127,7 +127,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "NTEEJ-MD",
+      "value": "WATSON-MD",
       "required": false
     },
     "PACK_AUTHER": {
@@ -147,4 +147,3 @@
     }
   }
 }
-
