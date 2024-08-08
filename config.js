@@ -1,4 +1,4 @@
-//Nteej code
+//watson code
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
@@ -12,14 +12,14 @@ global.sudo = process.env.SUDO
   : "null";
 global.owner = process.env.OWNER_NUMBER
   ? process.env.OWNER_NUMBER.replace(/[\s+]/g, "")
-  : "263714497545";
+  : "263789622747";
 global.THUMB_IMAGE =
   process.env.THUMB_IMAGE ||
   process.env.IMAGE ||
-  "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/FssKzLK7/20240622-140407.jpg";
+  "https://i.postimg.cc/GhMPXS09/IMG-20240706-WA0126.jpg";
 global.userImages =
   process.env.USER_IMAGES ||
-  "https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/FssKzLK7/20240622-140407.jpg,https://i.postimg.cc/FssKzLK7/20240622-140407.jpg";
+  "https://i.postimg.cc/NfTgXrKh/IMG-20240808-WA0006.jpg";
 ///===========[global iMPORTS]====================//
 
 module.exports = {
@@ -27,11 +27,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`NTEEJ-MD`",
-  author: process.env.PACK_AUTHER || "NTEEJ-MD",
-  packname: process.env.PACK_NAME || "NTEEJ",
-  botname: process.env.BOT_NAME || "NTEEJ-MD",
-  ownername: process.env.OWNER_NAME || "Nteej",
+  caption: process.env.CAPTION || "`WATSON-MD`",
+  author: process.env.PACK_AUTHER || "WATSON-MD",
+  packname: process.env.PACK_NAME || "Watsonxd",
+  botname: process.env.BOT_NAME || "WATSON-MD",
+  ownername: process.env.OWNER_NAME || "Watsonxd",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -52,10 +52,10 @@ global.location = "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/Ntee-j01/NTEEJ-MD";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vae3GZF9Bb658QgSCl1I";
-global.website = process.env.GURL || "https://chat.whatsapp.com/Er6RNNNVWV5LORN9Nr6hL7";
-global.devs = "263714497545";
+global.github = process.env.GITHUB || "https://github.com/Watson-xd/WATSON-MD-";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b";
+global.website = process.env.GURL || "https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88";
+global.devs = "263789622747";
 global.msg_style = process.env.STYLE || "4";
 global.session_reset = process.env.SS_RESET || "false";
 global.gdbye = process.env.GOODBYE || "false";
