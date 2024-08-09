@@ -1,5 +1,5 @@
 
-<img alt="NTEEJ MD" height="300" src="https://i.postimg.cc/NfTgXrKh/IMG-20240808-WA0006.jpg">
+<img alt="WATSON MD" height="300" src="https://i.postimg.cc/NfTgXrKh/IMG-20240808-WA0006.jpg">
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -30,10 +30,6 @@
 </p>
  
 <p align="center"><img src="https://profile-counter.glitch.me/{WATSON-MD}/count.svg" alt="WATSON MD :: Visitor's Count" /></p>
-
-#### ```WATSON-MD PROFILE VIEWS 🧚`
-![Visitor Count](https://profile-counter.glitch.me/WATSON/count.svg)
----
 
 <h3 align="center"><b>WATSON-MD</b> DEPLOYMENT METHODS
 </h3>
