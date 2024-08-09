@@ -102,6 +102,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
  - [ WHATSAPP GROUP ](https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88)
  - [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b)
  
-
+  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
