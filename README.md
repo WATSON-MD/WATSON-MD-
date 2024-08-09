@@ -29,7 +29,7 @@
   <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-MD/WATSON-MD-?label=Watching&style=social"></a>
 </p>
  
-<p align="center"><img src="https://profile-counter.glitch.me/{Ntee-j01}/count.svg" alt="WATSON MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{WATSON-MD}/count.svg" alt="WATSON MD :: Visitor's Count" /></p>
 
 #### ```WATSON-MD PROFILE VIEWS 🧚`
 ![Visitor Count](https://profile-counter.glitch.me/WATSON/count.svg)
