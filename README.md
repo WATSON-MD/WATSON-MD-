@@ -88,7 +88,10 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+## Community and Support
 
+FOLLOW DAVID CYRIL WHAtSAPP CHANNEL FOR MORE UPDATES
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)]
 
 ### support us
 
