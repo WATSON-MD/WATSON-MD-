@@ -90,11 +90,8 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ## Community and Support
 
-FOLLOW DAVID CYRIL WHAtSAPP CHANNEL FOR MORE UPDATES
+FOLLOW WATSON-XD WHAtSAPP CHANNEL FOR MORE UPDATES
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)]
-
-### support us
-
  - [ WHATSAPP GROUP ](https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88)
  - [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b)
  
