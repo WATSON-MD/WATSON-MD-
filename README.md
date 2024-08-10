@@ -46,17 +46,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<h3>WATSON-MD Stats</h3>
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-XD1&repo=WATSON-MD-&theme=chartreuse-dark)
-
 ## Github stats
-![github stats](https://github-readme-stats.vercel.app/api?username=WATSON-XD1&show_icons=true&theme=chartreuse-dark)
-    
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=WATSON-XD1&layout=compact&theme=chartreuse-dark),
+![github stats](https://github-readme-stats.vercel.app/api?username=WATSON-XD1&show_icons=true&theme=chartreuse-dark)   
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Deployment Methods
-
 ---
 1.  ***Session`Menu` by [`QR and pair`](https://watsonxdboy-3.onrender.com) 
     <br>
