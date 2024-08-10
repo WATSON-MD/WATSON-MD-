@@ -49,6 +49,7 @@
 ## Github stats
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=WATSON-XD1&layout=compact&theme=chartreuse-dark),
 ![github stats](https://github-readme-stats.vercel.app/api?username=WATSON-XD1&show_icons=true&theme=chartreuse-dark)   
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-XD1&repo=WATSON-MD-&theme=chartreuse-dark)
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Deployment Methods
