@@ -27,8 +27,8 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`WATSON-MD`",
-  author: process.env.PACK_AUTHER || "WATSON-MD",
+  caption: process.env.CAPTION || "`WATSON-XD1`",
+  author: process.env.PACK_AUTHER || "WATSON-XD1",
   packname: process.env.PACK_NAME || "Watsonxd",
   botname: process.env.BOT_NAME || "WATSON-MD",
   ownername: process.env.OWNER_NAME || "Watsonxd",
@@ -52,7 +52,7 @@ global.location = "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/WATSON-MD/WATSON-MD-";
+global.github = process.env.GITHUB || "https://github.com/WATSON-XD1/WATSON-MD-";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b";
 global.website = process.env.GURL || "https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88";
 global.devs = "263789622747";
