@@ -1,7 +1,28 @@
-FROM node:16
-RUN git clone https://github.com/WATSON-MD/WATSON-MD- /root/Watson-xd
-WORKDIR /root/WATSON-MD
-RUN npm install
+FROM node:lts-buster
+
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  npm i pm2 -g && \
+  rm -rf /var/lib/apt/lists/*
+  
+RUN git clone https://github.com/WATSON-MD/WATSON-MD-/root/WATSON-MD
+WORKDIR /root/WATSON-MD/
+
+# Clear npm cache and remove node_modules directories
+RUN npm cache clean --force
+RUN rm -rf ~/node_modules 
+
+COPY package.json .
+
+RUN npm install pm2 -g
+RUN npm install --legacy-peer-deps
+
+COPY . .
+
 EXPOSE 3000
-CMD ["npm","start" ] 
-#watsonxd
+
+CMD ["npm","start" ]
