@@ -6,7 +6,7 @@
 
 <p align="center">l introduce <b>WATSON-MD</b>, a powerful simple to use interactive bot with many features.It is a multidevice bot created and designed by Watson fourpence to make your whatsapp more exciting and entertaining.Please support us and we will bring more amazing features </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+• WATSON+MD+IS+A+WHATSAPP+BOT;DEVELOPED+BY+Watsonxd; Please+fork+and+star+repo." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=430&lines=+• WATSON+MD+IS+A+WHATSAPP+BOT;DEVELOPED+BY+Watsonxd; Please+fork+and+star+repo." alt="Typing SVG" /></a>
  </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
