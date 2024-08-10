@@ -4,7 +4,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center">l Introducing <b>WATSON-MD BOT</b>,a cutting-edge interactive bot designed to elevate your WhatsApp experience. With its user-friendly interface and diverse features, this multi-device bot is poised to make your conversations more engaging and fun. Developed by Watson Fourpence, we invite you to support us and look forward to introducing even more innovative features in the future </p>
+<p align="center">l Introducing <b>WATSON-MD BOT</b>, A powerful, easy-to-use interactive bot making WhatsApp more exciting. Support us for more amazing features" </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=415&lines=+• WATSON+MD+IS+A+WHATSAPP+BOT;DEVELOPED+BY+WATSON-XD; Please+fork+and+star+repo." alt="Typing SVG" /></a>
  </p>
