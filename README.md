@@ -49,6 +49,9 @@
 <h3>WATSON-MD Stats</h3>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-XD1&repo=WATSON-MD-&theme=chartreuse-dark)
+
+## Github stats
+![github stats](https://github-readme-stats.vercel.app/api?username=WATSON-XD1&show_icons=true&theme=chartreuse-dark)
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
