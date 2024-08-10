@@ -12,7 +12,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-  <a href="https://github.com/WATSON-MD/WATSON-MD-.git">
+  <a href="https://github.com/WATSON-XD1/WATSON-MD-.git">
     
   </a>
 </p>
@@ -22,25 +22,25 @@
    
  
 <p align="center">
-  <a href="https://github.com/WATSON-MD?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/WATSON-MD?label=Followers&style=social"></a>
-  <a href="https://github.com/WATSON-MD/WATSON-MD-/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/WATSON-MD/WATSON-MD-?&style=social"></a>
-  <a href="https://github.com/WATSON-MD/WATSON-MD-/network/members"><img
-  <a href="https://github.com/WATSON-MD/WATSON-MD-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WATSON-MD/WATSON-MD-?style=social"></a>
-  <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-MD/WATSON-MD-?label=Watching&style=social"></a>
+  <a href="https://github.com/WATSON-XD1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/WATSON-XD1?label=Followers&style=social"></a>
+  <a href="https://github.com/WATSON-MD/WATSON-MD-/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/WATSON-XD1/WATSON-MD-?&style=social"></a>
+  <a href="https://github.com/WATSON-XD1/WATSON-MD-/network/members"><img
+  <a href="https://github.com/WATSON-MD/WATSON-MD-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WATSON-XD1/WATSON-MD-?style=social"></a>
+  <a href="https://github.com/Ntee-j01/NTEEJ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/WATSON-XD1/WATSON-MD-?label=Watching&style=social"></a>
 </p>
  
-<p align="center"><img src="https://profile-counter.glitch.me/{WATSON-MD}/count.svg" alt="WATSON MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{WATSON-XD1}/count.svg" alt="WATSON MD :: Visitor's Count" /></p>
 
 <h3 align="center"><b>WATSON-MD</b> DEPLOYMENT METHODS
 </h3>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/WATSON-MD/WATSON-MD-"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/WATSON-XD1/WATSON-MD-"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
  </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/WATSON-MD/WATSON-MD-">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/WATSON-XD1/WATSON-MD-">issue</a></p>
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -48,7 +48,7 @@
 
 <h3>WATSON-MD Stats</h3>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-MD&repo=WATSON-MD-&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=WATSON-XD1&repo=WATSON-MD-&theme=chartreuse-dark)
     
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -63,9 +63,9 @@
 <a href="https://nteej-session-generator-j7aq.onrender.com/pair"><img title="scanning code" src="https://img.shields.io/badge/ pairing code-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
-3.  ***Click [`FORK`](https://github.com/Watson-xd/WATSON-MD-/fork) and `Star ⭐ Repository` for Courage.***
-4. [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/WATSON-MD/WATSON-MD-)***
-5.  ***Deploy on [`Replit`](https://replit.com/github.com/WATSON-MD/WATSON-MD-)***
+3.  ***Click [`FORK`](https://github.com/Watson-XD1/WATSON-MD-/fork) and `Star ⭐ Repository` for Courage.***
+4. [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/WATSON-XD1/WATSON-MD-)***
+5.  ***Deploy on [`Replit`](https://replit.com/github.com/WATSON-XD1/WATSON-MD-)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
