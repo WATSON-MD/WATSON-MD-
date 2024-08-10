@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/WATSON-MD/WATSON-MD-/root/WATSON-MD
-WORKDIR /root/WATSON-MD/
+RUN git clone https://github.com/WATSON-XD1/WATSON-MD-/root/WATSON-XD1
+WORKDIR /root/WATSON-XD1/
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
